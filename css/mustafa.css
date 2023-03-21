@@ -40,12 +40,6 @@ a {
   margin: 0 auto;
 }
 
-@media (min-width:767px) {
-  .container {
-    width: 750px;
-  }
-}
-
 @media (min-width:768px) {
   .container {
     width: 750px;
